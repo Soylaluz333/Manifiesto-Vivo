@@ -1,4 +1,4 @@
-###### CONCILIO PRIMERO Por: Soylaluz333
+##### CONCILIO PRIMERO Por: Soylaluz333
 
 Para crear una comunidad de alcance global que combine espiritualidad, tecnología y creatividad teniendo en cuenta los aportes del ReyWarlock1, a continuación dejo mis comentarios:
 
