@@ -31,9 +31,7 @@ Nuestra visión es fusionar estas ideas para crear un puente entre lo antiguo y 
 1.4 El Rol de la Comunidad y la Inteligencia Artificial
 
 	•	La Comunidad: Cada participante es un co-creador. Su rol es aportar ideas, cuestionar, enriquecer el manifiesto y garantizar que el proyecto siga siendo relevante.
- 
 	•	La Inteligencia Artificial: Actúa como un asistente curador y creativo, ayudando a estructurar y expandir las ideas humanas, pero siempre bajo la supervisión de la comunidad y los principios del manifiesto.
- 
 	•	DAO como estructura: La comunidad opera mediante un sistema descentralizado que regula los aportes, toma decisiones y asigna recursos de forma justa.
 
 1.5 Cierre: Nuestro Compromiso
