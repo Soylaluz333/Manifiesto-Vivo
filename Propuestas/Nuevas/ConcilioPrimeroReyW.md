@@ -23,6 +23,8 @@ gusta mucho el que propuse].
 
 Por: ReyWarlock1
 
+-----------------------------------------------------------------------------------------------------------
+
 2. CONCILIO PRIMERO
 
 Primero, hemos de reconocer el "Manifiesto vivo" como nuestra característica más esencial, manteniendo, por supuesto, su naturaleza dinámica para renovarse, como parte de su integridad filosófica, la cual debe ser comprendida como un legado que trascienda nuestros tiempos. 
