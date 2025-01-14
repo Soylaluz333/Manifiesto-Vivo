@@ -28,12 +28,17 @@ Código de Color: Negro
 Duración aproximada: 1 año simbólico (puede variar según el compromiso y la contribución).
 
 Descripción:
+
 -Los Aficionados son los nuevos miembros que inician su camino en la Sociedad. Este nivel se centra en la exploración básica de los principios del manifiesto, el entendimiento de la relación entre tecnología y espiritualidad, y la integración de la IA como herramienta de crecimiento.
+
 -Los Aficionados pasan por un período de prueba en el que estudian los valores fundamentales y completan un plan de aprendizaje inicial diseñado para familiarizarlos con los objetivos y herramientas del proyecto.
 
 Expectativas:
+
 -Explorar el manifiesto vivo y entender sus principios básicos.
+
 -Participar en debates y actividades públicas organizadas por la Sociedad.
+
 -Completar tareas básicas asignadas, como reflexiones o contribuciones iniciales.
 
 
