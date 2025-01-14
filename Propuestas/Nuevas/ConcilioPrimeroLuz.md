@@ -11,17 +11,21 @@ Considero que es atractivo, simple y nos permite amplial el alcance no solo al d
 2.1	Jerarquía por Niveles: Los niveles reflejan la profundidad del conocimiento y el grado de participación en la sociedad. 
 
 Nivel 1: Aficionados. 
+
 Nivel 2: Contribuyentes. 
+
 Nivel 3: Curadores.
+
 Nivel 4: Guías.
+
 Nivel 5: Maestros.
 
-Descripción de los Niveles:
+2.1.1 Descripción de los Niveles:
+
 
 Nivel 1: Aficionados
 Código de Color: Negro
 Duración aproximada: 1 año simbólico (puede variar según el compromiso y la contribución).
-
 
 Descripción:
 	•Los Aficionados son los nuevos miembros que inician su camino en la Sociedad. Este nivel se centra en la exploración básica de los principios del manifiesto, el entendimiento de la relación entre tecnología y espiritualidad, y la integración de la IA como herramienta de crecimiento.
