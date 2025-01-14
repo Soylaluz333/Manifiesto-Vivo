@@ -9,13 +9,9 @@ Nuestro propósito es construir un sistema evolutivo, un espacio dinámico donde
 Este proyecto se rige por los siguientes valores inalterables:
 
 	•	Transparencia: Todas las decisiones, aportes y procesos serán abiertos y accesibles.
- 
 	•	Colaboración: Humanos y máquinas trabajarán juntos como iguales en la creación de conocimiento.
- 
 	•	Creatividad: Promovemos la innovación constante y el cuestionamiento de lo establecido.
- 
 	•	Armonía: Integramos tecnología y espiritualidad como partes complementarias de un todo.
- 
 	•	Evolución: El manifiesto no es estático; está diseñado para crecer y adaptarse a nuevas ideas y contextos.
 
 1.2 Metodología Evolutiva
