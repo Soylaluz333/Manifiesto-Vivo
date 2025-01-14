@@ -1,4 +1,6 @@
-#CONCILIO PRIMERO
+# CONCILIO PRIMERO
+
+
 El concilio primero se realiza como un medio de intercambio y establecimiento de las nociones fundamentales orientadas a la creación del manifiesto vivo, allí surge como necesidad la creación de la <Sociedad de ciencias mágicas>. 
 
 A continuación, presentamos transcritas las conclusiones acordadas por <_la junta de magos fundadores_> durante este primer encuentro.
